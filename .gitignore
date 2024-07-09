@@ -1,0 +1,4 @@
+v*/node_modules
+v*/.env
+
+v*/dist
